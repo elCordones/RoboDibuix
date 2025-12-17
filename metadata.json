@@ -1,0 +1,5 @@
+{
+  "name": "RoboDibuix",
+  "description": "Una aplicació educativa per programar un robot i dibuixar figures geomètriques utilitzant ordres senzilles.",
+  "requestFramePermissions": []
+}
